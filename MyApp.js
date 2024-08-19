@@ -19,7 +19,7 @@ const MyApp = () => {
       style={styles.backgroundImage}
     >
       <View style={styles.container}>
-        <Text style={styles.title}>Bienvenido a MyApp</Text>
+        <Text style={styles.title}>Bienvenido a MyApp.</Text>
         
         <Text style={styles.label}>Ingresa tu nombre:</Text>
         <TextInput
